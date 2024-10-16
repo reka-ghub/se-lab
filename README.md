@@ -39,6 +39,6 @@ The project represents an alpha version of a spaceship.
 
 The code can be built, but due to missing features one of the tests fails. The first exercise will be to fix this.
 
-![Build status](https://github.com/reka-ghub/se-lab/actions/workflows/maven.yml/badge.svg?event=build)
+![Build status](https://github.com/reka-ghub/se-lab/actions/workflows/maven.yml/badge.svg)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
